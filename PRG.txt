@@ -1,0 +1,11 @@
+lámpara - https://dle.rae.es/lámpara
+cañería - https://dle.rae.es/cañería
+montaña - https://dle.rae.es/montaña
+océano - https://dle.rae.es/océano
+árbol - https://dle.rae.es/árbol
+viento - https://dle.rae.es/viento
+estrella - https://dle.rae.es/viento
+reloj - https://dle.rae.es/viento
+fuego - https://dle.rae.es/fuego
+libro - https://dle.rae.es/libro
+
